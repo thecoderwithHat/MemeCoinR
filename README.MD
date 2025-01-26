@@ -31,7 +31,7 @@ To get started with the MemeCoin Roulette application locally, follow these step
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/prem22k/MemeCoin-Roulette.git
+   git clone https://github.com/thecoderwithHat/MemeCoinR.git
    ```
 
 2. **Navigate to the project directory**:
@@ -90,9 +90,6 @@ Here are some screenshots showcasing the features and user interface of MemeCoin
 
 We welcome contributions from everyone! If you have suggestions, improvements, or bug reports, please open an issue or submit a pull request. Be sure to follow the project’s code of conduct.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -105,8 +102,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [Vercel](https://vercel.com/)
 - [Giphy API](https://developers.giphy.com/)
 
-## Contact
-
-For any inquiries or feedback, please contact the project maintainer at [premsai224k@gmail.com](mailto:premsai224k@gmail.com).
 
 Enjoy the MemeCoin Roulette experience!
